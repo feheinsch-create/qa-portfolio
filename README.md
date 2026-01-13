@@ -19,21 +19,7 @@ loyalty program gifts.
 
 ---
 
-### 2. Airbnb – Phone Number Update Failure (Account / UX)
-QA case study focused on SMS verification failure when updating a phone number,
-impacting user communication and travel experience.
-
-**Skills demonstrated:**
-- BDD scenario analysis
-- UX risk assessment
-- Edge case identification
-- Cross-system dependency analysis
-
-📄 File: Airbnb_Case_Scenario.pdf
-
----
-
-### 3. Amazon – Kindle Purchase Flow Limitation (Mobile App)
+### 2. Amazon – Kindle Purchase Flow Limitation (Mobile App)
 QA analysis of purchase flow restrictions for Kindle eBooks on mobile apps,
 including platform constraints and UX clarity gaps.
 
@@ -44,3 +30,16 @@ including platform constraints and UX clarity gaps.
 - Requirement clarification
 
 📄 File: Amazon_Case_Scenario.pdf
+---
+
+### 3. Airbnb – Phone Number Update Failure (Account / UX)
+QA case study focused on SMS verification failure when updating a phone number,
+impacting user communication and travel experience.
+
+**Skills demonstrated:**
+- BDD scenario analysis
+- UX risk assessment
+- Edge case identification
+- Cross-system dependency analysis
+
+📄 File: Airbnb_Case_Scenario.pdf
