@@ -30,6 +30,7 @@ including platform constraints and UX clarity gaps.
 - Requirement clarification
 
 📄 File: Amazon_Case_Scenario.pdf
+
 ---
 
 ### 3. Airbnb – Phone Number Update Failure (Account / UX)
