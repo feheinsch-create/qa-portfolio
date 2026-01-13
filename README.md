@@ -3,7 +3,7 @@
 This repository contains real-world QA case studies focused on
 functional issues, UX impact, and business risks across different platforms.
 
-## Case Studies
+## Case Studies:
 
 ### 1. MAC Cosmetics – Checkout Blocker (E-commerce)
 End-to-end QA test case and bug report focused on a checkout failure caused by
