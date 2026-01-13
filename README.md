@@ -17,7 +17,7 @@ loyalty program gifts.
 
 📄 File: Mac_Case_Test_Scenario.pdf
 
-==================================================================================================
+---
 
 #### 2. Amazon – Kindle Purchase Flow Limitation (Mobile App)
 
@@ -32,7 +32,7 @@ including platform constraints and UX clarity gaps.
 
 📄 File: Amazon_Case_Scenario.pdf
 
-==================================================================================================
+---
 
 #### 3. Airbnb – Phone Number Update Failure (Account / UX)
 
