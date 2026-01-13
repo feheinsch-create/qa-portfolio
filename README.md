@@ -1,5 +1,4 @@
 # QA Portfolio – Test Cases & Bug Reports
-
 This repository contains real-world QA case studies focused on
 functional issues, UX impact, and business risks across different platforms.
 
